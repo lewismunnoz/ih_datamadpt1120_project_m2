@@ -1,6 +1,6 @@
 <p align="left"><img src="https://cdn-images-1.medium.com/max/184/1*2GDcaeYIx_bQAZLxWM4PsQ@2x.png"></p>
 
-# Data Analytics 0420 Project M2
+# Data Analytics 1120 Project M2
 
 ![Image](images/minero.jpg)
 
@@ -17,9 +17,12 @@ This dashboard will show us an in-depth analysis of a dataset about diamonds in 
 Tableau, Python, Pandas, Plotly.
 
 
+# **Dashboard:**
+https://public.tableau.com/profile/luis.munoz6982#!/vizhome/Versionok1/Dashboardtoshow
+ 
 luismunnozromero@gmail.com
 
-
+![Image](images/mudito.gif)
 
 ## **References:**
 
