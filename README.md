@@ -6,12 +6,12 @@
 
 
 
-In this project we are challenged to build a dashboard using Tableau to visualize information of the features of diamonds.
+In this project we are challenged to build a dashboard using Tableau to visualize information of a dataset about diamonds and their quantitative and qualitative features.
 
 ![Image](images/diamonds.gif)
 
 
-This dashboard will show us an in-depth analysis of a dataset about diamonds in order to know which are the best factors to buy a diamond for your wedding ring.
+This dashboard will show us an in-depth analysis of a dataset about diamonds in order to know which are the best factors to buy a diamond for any reason.
 
 # **Technology used:**
 Tableau, Python, Pandas, Plotly.
@@ -20,7 +20,6 @@ Tableau, Python, Pandas, Plotly.
 # **Dashboard:**
 https://public.tableau.com/profile/luis.munoz6982#!/vizhome/Versionok1/Dashboardtoshow
  
-luismunnozromero@gmail.com
 
 ![Image](images/mudito.gif)
 
